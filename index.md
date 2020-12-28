@@ -2,8 +2,8 @@
 I am a PhD student at the Department of Physics and Astronomy of the University of Pittsburgh. I work on astronomical image processing and type Ia supernova science.
 
 # Projects
-- Fake Injection
-- Developing Improved Image Subtraction Algorithm
+### Fake Injection
+### Developing Improved Image Subtraction Algorithm
 
 # Talks
 - Fake Injection, 2020 DESC Summer Meeting, summer 2020
