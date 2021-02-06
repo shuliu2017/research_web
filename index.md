@@ -3,6 +3,9 @@ I am a PhD student at the Department of Physics and Astronomy of the University 
 
 # Projects
 ### Fake Injection
+
+![image info](./pictures/eff.png)
+
 ### Developing Improved Image Subtraction Algorithm
 
 # Talks
